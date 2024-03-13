@@ -1,2 +1,3 @@
-# Zion Py
-A zig interpreter/runtime for python 3.11
+# QuanCompZ
+
+A C compiler for quatum computers in Zig
