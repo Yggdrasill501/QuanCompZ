@@ -1,3 +1,3 @@
 # QuanCompZ
 
-A C compiler for quatum computers in Zig
+A compiler for quantum computers
